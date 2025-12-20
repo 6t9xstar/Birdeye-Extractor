@@ -1,0 +1,1 @@
+python src\plan2_scraper.py --input birdeye.txt --output "Plan 2/output.csv" --mode full
