@@ -1,3 +1,8 @@
+## RUN
+
+python src\plan2_scraper.py --input birdeye.txt --output "Plan 2/output.csv" --mode full
+
+
 ## Birdeye Extractor
 
 **Birdeye Extractor** is a data extraction tool designed to collect **publicly available business information** from Birdeye across **all categories**, including healthcare providers, contractors, home services, restaurants, retail, automotive, and more. The tool helps organize business listings into structured datasets for research, analysis, and lead discovery.
