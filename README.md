@@ -1,5 +1,7 @@
 ## RUN
 
+![GitHub stars](https://img.shields.io/github/stars/6t9xstar/Birdeye-Extractor?style=social)
+
 python src\plan2_scraper.py --input birdeye.txt --output "Plan 2/output.csv" --mode full
 
 
